@@ -5,6 +5,8 @@
 
 # Project Description
 
+**[To know briefly, visit 'Project Implementation Paper' file]**
+
 This project is aimed at developing a machine learning model to predict Heart Disease . The goal is to identify patient who has Heart Disease based on various physical condition and also find the best feature relate to the targeted featute.
 
 # Data Sources
@@ -19,4 +21,6 @@ We split the data into training and testing sets and performed cross-validation 
 
 # Results
 
-Our final model achieved an accuracy of 85% and an F1 score of 0.75. We visualized the feature importance of the model and found that the most important features for predicting attribute were the PhysicalHealth, DiffWalking, MentalHealth, Diabetic, PhysicalActivity, Stroke
+Our final model achieved an accuracy of 89% and an F1 score of 0.90. We visualized the feature importance of the model and found that the most important features for predicting attribute were the PhysicalHealth, DiffWalking, MentalHealth, Diabetic, PhysicalActivity, Stroke
+
+[To know in Brief, then it's highly recommended to visit 'Project Implentation Paper' file]
